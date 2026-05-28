@@ -1,0 +1,3252 @@
+[
+  {
+    "num": 1,
+    "title": "Переведите на русский язык латинские анатомические термины",
+    "items": [
+      {
+        "question": "Agger nasi",
+        "answer": "Утолщение носа"
+      },
+      {
+        "question": "ala nasi",
+        "answer": "Крыло носа"
+      },
+      {
+        "question": "Alae nasi",
+        "answer": "Крылья носа"
+      },
+      {
+        "question": "angulus mandibulae",
+        "answer": "Угол нижней челюсти"
+      },
+      {
+        "question": "angulus nasi",
+        "answer": "Угол носа"
+      },
+      {
+        "question": "angulus oris",
+        "answer": "Угол рта"
+      },
+      {
+        "question": "apex linguae",
+        "answer": "Верхушка языка"
+      },
+      {
+        "question": "Apex pulmonis sinistri",
+        "answer": "Верхушка левого легкого"
+      },
+      {
+        "question": "Apex vesicae urinariae",
+        "answer": "Верхушка мочевого пузыря"
+      },
+      {
+        "question": "arteria gastroduodenalis",
+        "answer": "Желудочно-12перстная артерия"
+      },
+      {
+        "question": "arteria pulmonalis communis",
+        "answer": "общая легочная артерия"
+      },
+      {
+        "question": "bulbus oculi",
+        "answer": "глазное яблоко (луковица глаза)"
+      },
+      {
+        "question": "canaliculus dentis serotini",
+        "answer": "Каналец нижнего зуба мудрости inferioris"
+      },
+      {
+        "question": "Canalis ductus vomeronasalis",
+        "answer": "Канал сошниконосового протока"
+      },
+      {
+        "question": "caput longum musculi tricipitis",
+        "answer": "длинная головка трехглавой мышцы"
+      },
+      {
+        "question": "brachii",
+        "answer": "плеча"
+      },
+      {
+        "question": "cartilagines nasi",
+        "answer": "Хрящи носа"
+      },
+      {
+        "question": "Cavitas oris",
+        "answer": "Полость рта"
+      },
+      {
+        "question": "cavitas propria oris",
+        "answer": "собственная полость рта"
+      },
+      {
+        "question": "Columna vertebralis",
+        "answer": "Позвоночный столб"
+      },
+      {
+        "question": "cor adiposum",
+        "answer": "жирное сердце (ожирение сердца)"
+      },
+      {
+        "question": "cornua processuum",
+        "answer": "Рога отростков"
+      },
+      {
+        "question": "Corpus pancreatis",
+        "answer": "Тело поджелудочной железы"
+      },
+      {
+        "question": "costae thoracis",
+        "answer": "Ребра грудной клетки"
+      },
+      {
+        "question": "Crista ethmoidalis",
+        "answer": "Решётчатый гребень"
+      },
+      {
+        "question": "cuspis incisivi",
+        "answer": "Cтворка резца"
+      },
+      {
+        "question": "Cutis faciei",
+        "answer": "Кожа лица"
+      },
+      {
+        "question": "dentes canini inferiores",
+        "answer": "нижние клыки"
+      },
+      {
+        "question": "Dentes decidui superiores",
+        "answer": "Верхние молочные зубы"
+      },
+      {
+        "question": "Dentes molares inferiores",
+        "answer": "Нижнее большие коренные зубы"
+      },
+      {
+        "question": "dentes serotini",
+        "answer": "Зубы мудрости"
+      },
+      {
+        "question": "ductus sublinguales minores",
+        "answer": "Наименьшие подъязычные протоки"
+      },
+      {
+        "question": "Ductus sublingualis major",
+        "answer": "Большой подъязычный проток"
+      },
+      {
+        "question": "dura mater encephali",
+        "answer": "Твердая оболочка головного мозга"
+      },
+      {
+        "question": "Facies hexangularis",
+        "answer": "Шестиугольная поверхность"
+      },
+      {
+        "question": "Fibrae ligamentarum",
+        "answer": "Волокна связок"
+      },
+      {
+        "question": "Fibrae musculares",
+        "answer": "Мышечные волокна"
+      },
+      {
+        "question": "foramen zygomaticofaciale",
+        "answer": "скулолицевое отверстие"
+      },
+      {
+        "question": "Foramina venarum minimarum",
+        "answer": "Отверстия наименьших вен"
+      },
+      {
+        "question": "Fossa ossis ethmoidalis",
+        "answer": "Ямка решетчатой кости"
+      },
+      {
+        "question": "Frenulum linguae",
+        "answer": "Уздечка языка"
+      },
+      {
+        "question": "Ganglion pterygopalatinum",
+        "answer": "Крылонебный нервный узел"
+      },
+      {
+        "question": "glandula alveolaris composita",
+        "answer": "сложная альвеолярная железа"
+      },
+      {
+        "question": "Hiatus profundus ossis ethmoidalis",
+        "answer": "Глубокая расщелина решетчатой кости"
+      },
+      {
+        "question": "impressio cardiaca",
+        "answer": "Сердечное вдавление"
+      },
+      {
+        "question": "incisura cardiaca pulmonis sinistri",
+        "answer": "сердечная вырезка левого легкого"
+      },
+      {
+        "question": "incisura muscularis",
+        "answer": "Мышечная вырезка"
+      },
+      {
+        "question": "incisurae dorsales musculorum cervicalium",
+        "answer": "спинные вырезки шейных мышц"
+      },
+      {
+        "question": "Lamina incisurae miscularis superior",
+        "answer": "Верхняя мышечная пластинка вырезки"
+      },
+      {
+        "question": "Lamina ossea",
+        "answer": "Костная пластинка"
+      },
+      {
+        "question": "ligamenta ossium",
+        "answer": "Связки костей"
+      },
+      {
+        "question": "ligamentum musculi masseteris",
+        "answer": "связка жевательной мышцы"
+      },
+      {
+        "question": "ligamentum longitudinale anterius columnae vertebralis",
+        "answer": "передняя продольная связка позвоночного столба"
+      },
+      {
+        "question": "Ligamentum musculi tricipitis",
+        "answer": "Связка трехглавой мышцы"
+      },
+      {
+        "question": "ligamentum ossis nasalis",
+        "answer": "связка носовой кости"
+      },
+      {
+        "question": "linea suprema",
+        "answer": "Наивысшая линия"
+      },
+      {
+        "question": "Margo gingivae inferior",
+        "answer": "Нижний край десны"
+      },
+      {
+        "question": "Margo liber gingivae",
+        "answer": "Свободный край десны"
+      },
+      {
+        "question": "meatus nasi",
+        "answer": "Носовой ход"
+      },
+      {
+        "question": "Mucosa gastris",
+        "answer": "Слизистая желудка"
+      },
+      {
+        "question": "Mucosa vesicae urinariae",
+        "answer": "Слизистая мочевого пузыря"
+      },
+      {
+        "question": "Musculi femoris",
+        "answer": "Бедренная мышца"
+      },
+      {
+        "question": "musculus biventer mandibulae",
+        "answer": "двубрюшная мышца нижней челюсти"
+      },
+      {
+        "question": "musculus latissimus dorsi",
+        "answer": "Широчайшая мышца спины"
+      },
+      {
+        "question": "Musculus levator labii superioris",
+        "answer": "Мышца, поднимающая верхнюю губу"
+      },
+      {
+        "question": "Musculus longissimus capitis",
+        "answer": "Длиннейшая мышца головы"
+      },
+      {
+        "question": "Musculus rotator cervicis",
+        "answer": "Мышца вращающая шею"
+      },
+      {
+        "question": "musculus tensor veli palatini",
+        "answer": "Мышца напрягающая небную занавеску"
+      },
+      {
+        "question": "Musculus teres",
+        "answer": "Круглая мышца"
+      },
+      {
+        "question": "musculus transversus menti",
+        "answer": "поперечная мышца подбородка"
+      },
+      {
+        "question": "nervus buccalis",
+        "answer": "щечный нерв"
+      },
+      {
+        "question": "nervus oculomotorius",
+        "answer": "глазодвигательный нерв"
+      },
+      {
+        "question": "Nervus vasorum",
+        "answer": "Нерв сосудов"
+      },
+      {
+        "question": "nodi lymphatici intercostales",
+        "answer": "межреберные лимфатические узлы"
+      },
+      {
+        "question": "Nomina anatomica",
+        "answer": "Анатомический список"
+      },
+      {
+        "question": "nucleus accessorius nervi trigemini",
+        "answer": "добавочное ядро тройничного нерва"
+      },
+      {
+        "question": "os nasale",
+        "answer": "носовая кость"
+      },
+      {
+        "question": "Os parietale",
+        "answer": "Теменная кость"
+      },
+      {
+        "question": "ossa et ligamenta articulationum",
+        "answer": "Кости и связки суставов"
+      },
+      {
+        "question": "ossa membri inferioris",
+        "answer": "Кости нижней конечности"
+      },
+      {
+        "question": "Ossa et musculi corporis hominis",
+        "answer": "Кости и мышцы тела человека"
+      },
+      {
+        "question": "ostium venae cavae inferioris",
+        "answer": "отверстие нижней полой вены"
+      },
+      {
+        "question": "Palpebra superior",
+        "answer": "Верхнее веко"
+      },
+      {
+        "question": "papilla lingualis",
+        "answer": "Язычный сосочек"
+      },
+      {
+        "question": "Paries lateralis orbitae",
+        "answer": "Латеральная (боковая) стенка глазницы"
+      },
+      {
+        "question": "Pars ascendens aortae",
+        "answer": "Восходящая часть аорты"
+      },
+      {
+        "question": "pars ascendens duodeni",
+        "answer": "восходящая часть двенадцатиперстной кишки"
+      },
+      {
+        "question": "pars cervicalis oesophagi",
+        "answer": "шейная часть пищевода"
+      },
+      {
+        "question": "Pars descendens aortae",
+        "answer": "Нисходящая часть аорты"
+      },
+      {
+        "question": "Pars descendens duodeni",
+        "answer": "Нисходящая часть двенадцатиперстной кишки"
+      },
+      {
+        "question": "pars lateralis aortae",
+        "answer": "Латеральная (боковая) часть аорты"
+      },
+      {
+        "question": "pars libera gingivae",
+        "answer": "свободная часть десны"
+      },
+      {
+        "question": "pars medialis carotidis",
+        "answer": "Средняя часть сонной артерии"
+      },
+      {
+        "question": "Plica transversalis recti",
+        "answer": "Поперечная складка прямой кишки"
+      },
+      {
+        "question": "Plicae linguae",
+        "answer": "Складки языка"
+      },
+      {
+        "question": "plicae transversae recti",
+        "answer": "поперечные складки прямой кишки"
+      },
+      {
+        "question": "processus articularis posterior",
+        "answer": "задний суставной отросток"
+      },
+      {
+        "question": "processus ossis temporalis",
+        "answer": "Отросток височной кости"
+      },
+      {
+        "question": "processus palatinus maxillae",
+        "answer": "небный отросток верхней челюсти"
+      },
+      {
+        "question": "processus pterygoideus femoris",
+        "answer": "Крыловидный отросток бедра"
+      },
+      {
+        "question": "processus zygomaticus",
+        "answer": "Скуловой отросток"
+      },
+      {
+        "question": "pulpa dentis",
+        "answer": "Мякоть зуба"
+      },
+      {
+        "question": "ramus dexter venae portae",
+        "answer": "правая ветвь воротной вены"
+      },
+      {
+        "question": "Raphe sphenomandibularis",
+        "answer": "Клиновидно-верхнечелюстной шов"
+      },
+      {
+        "question": "Recessus duodeni",
+        "answer": "Углубление двенадцатиперстной кишки"
+      },
+      {
+        "question": "Ren migrans",
+        "answer": "Блуждающая почка"
+      },
+      {
+        "question": "Retia venosa",
+        "answer": "Венозные сети"
+      },
+      {
+        "question": "Sinus fronalis",
+        "answer": "Лобная пазуха"
+      },
+      {
+        "question": "Spatium intervertebrale",
+        "answer": "Межпозвоночное пространство"
+      },
+      {
+        "question": "spina nasalis anterior et posterior",
+        "answer": "передняя и задняя носовые ости"
+      },
+      {
+        "question": "stratum adiposum abdominis",
+        "answer": "жировой слой живота"
+      },
+      {
+        "question": "Stratum musculare",
+        "answer": "Мышечный слой"
+      },
+      {
+        "question": "substantia flava medullae spinalis",
+        "answer": "желтое вещество спинного мозга"
+      },
+      {
+        "question": "substantia spongiosa et compacta",
+        "answer": "губчатое и плотное вещество"
+      },
+      {
+        "question": "Substantia spongiosa et compacta ossium",
+        "answer": "Губчатое и плотное вещество костей"
+      },
+      {
+        "question": "substantia spongiosa et composita",
+        "answer": "губчатое и упорядоченное вещество"
+      },
+      {
+        "question": "Sulci linguae",
+        "answer": "Борозды языка"
+      },
+      {
+        "question": "sutura zygomaticomaxillaris",
+        "answer": "скулововерхнечелюстной шов"
+      },
+      {
+        "question": "Systema nervorum",
+        "answer": "Система нервов"
+      },
+      {
+        "question": "Textus membranaceus",
+        "answer": "Перепончатая ткань"
+      },
+      {
+        "question": "Tractus respiratorius",
+        "answer": "Дыхательный путь"
+      },
+      {
+        "question": "Tuber cervicis majus",
+        "answer": "Большой шейный бугор"
+      },
+      {
+        "question": "tuber occipitalis minus",
+        "answer": "Малый затылочный бугор"
+      },
+      {
+        "question": "Tuber temporale",
+        "answer": "Височный бугор"
+      },
+      {
+        "question": "tuber zygomaticum majus",
+        "answer": "большой скуловой бугор"
+      },
+      {
+        "question": "tuber zygomatis majus",
+        "answer": "Большой бугор скулы"
+      },
+      {
+        "question": "vasa lymphatica superficialia",
+        "answer": "Поверхностные лимфатические сосуды"
+      },
+      {
+        "question": "Vasa sanguinea",
+        "answer": "Кровеносные сосуды"
+      },
+      {
+        "question": "vena portae",
+        "answer": "Воротная вена"
+      },
+      {
+        "question": "Ventriculus cordis dexter",
+        "answer": "Правый желудочек сердца"
+      },
+      {
+        "question": "Vomer nasalis",
+        "answer": "Носовой сошник"
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "title": "Переведите на латинский язык анатомические термины",
+    "items": [
+      {
+        "question": "блуждающая почка",
+        "answer": "Ren migrans"
+      },
+      {
+        "question": "боковая область шеи",
+        "answer": "regio colli lateralis"
+      },
+      {
+        "question": "Большой бугор скулы",
+        "answer": "Tuber zygomatis majus"
+      },
+      {
+        "question": "Большой небный канал",
+        "answer": "Canalis palatinus major"
+      },
+      {
+        "question": "бугорок верхнего большого коренного зуба",
+        "answer": "Tuber dentis molaris superioris"
+      },
+      {
+        "question": "бугристость кости",
+        "answer": "tuberositas ossis"
+      },
+      {
+        "question": "венозная сеть",
+        "answer": "rete venosum"
+      },
+      {
+        "question": "Венозное сплетение",
+        "answer": "Plexus venosus"
+      },
+      {
+        "question": "Верхний констриктор глотки",
+        "answer": "m. constrictor pharyngis superior"
+      },
+      {
+        "question": "верхняя пазуха",
+        "answer": "Sinus superior"
+      },
+      {
+        "question": "Верхушка сердца",
+        "answer": "Apex cordis"
+      },
+      {
+        "question": "ветвь решетчатой кости",
+        "answer": "ramus ossis ethmoidalis"
+      },
+      {
+        "question": "воротная вена",
+        "answer": "Vena portae"
+      },
+      {
+        "question": "вырезка щёчной мышцы",
+        "answer": "Incisura musculi buccalis"
+      },
+      {
+        "question": "Выступающий отросток",
+        "answer": "Processus prominens"
+      },
+      {
+        "question": "глазодвигательный нерв",
+        "answer": "nervus oculomotorius"
+      },
+      {
+        "question": "Дно полости желудка",
+        "answer": "Fundus cavitatis gastris"
+      },
+      {
+        "question": "Доли печени",
+        "answer": "Lobi hepatis"
+      },
+      {
+        "question": "дыхательные пути",
+        "answer": "Tractus respiratorii"
+      },
+      {
+        "question": "жевательная мышца",
+        "answer": "Musculus masseter"
+      },
+      {
+        "question": "Жевательная поверхность зубов",
+        "answer": "Facies masticatoria dentum"
+      },
+      {
+        "question": "задняя связка головки малоберцовой кости",
+        "answer": "ligamentum capitis fibulae posterius"
+      },
+      {
+        "question": "Затылочный гребень",
+        "answer": "Crista occipitalis"
+      },
+      {
+        "question": "зубная дуга",
+        "answer": "arcus dentalis"
+      },
+      {
+        "question": "Канал печени",
+        "answer": "Canalis hepatis"
+      },
+      {
+        "question": "клиновидно-нижнечелюстной шов",
+        "answer": "Raphe sphenomandibularis"
+      },
+      {
+        "question": "корень верхнего малого коренного зуба",
+        "answer": "Radix dentis premolaris surerioris"
+      },
+      {
+        "question": "корень верхнего резца",
+        "answer": "radix dentis incisivi superioris"
+      },
+      {
+        "question": "корни зубов",
+        "answer": "Radicis dentium"
+      },
+      {
+        "question": "короткие желудочные вены",
+        "answer": "venae gastricae breves"
+      },
+      {
+        "question": "кости и мышцы тела человека",
+        "answer": "Ossa et musculi corporis hominis"
+      },
+      {
+        "question": "Кости и связки суставов",
+        "answer": "Ossa et ligament articulationum"
+      },
+      {
+        "question": "Кости черепа",
+        "answer": "Ossa cranii"
+      },
+      {
+        "question": "костная перегородка носа",
+        "answer": "septum osseum nasi"
+      },
+      {
+        "question": "Костное углубление",
+        "answer": "Recessus osseus"
+      },
+      {
+        "question": "Кровеносная система",
+        "answer": "Systema sanguineum"
+      },
+      {
+        "question": "листки мозжечка",
+        "answer": "Folia cerebelli"
+      },
+      {
+        "question": "лобная пазуха",
+        "answer": "Sinus frontalis"
+      },
+      {
+        "question": "Медиальная часть сонной артерии",
+        "answer": "Pars medialis carotidis"
+      },
+      {
+        "question": "межпозвоночное пространство",
+        "answer": "Spatium intervertebrаle"
+      },
+      {
+        "question": "Мышечная вырезка",
+        "answer": "Incisura muscularis"
+      },
+      {
+        "question": "мышечная оболочка тонкой кишки",
+        "answer": "tunica muscularis insetini tenui"
+      },
+      {
+        "question": "мышечный слой желудка",
+        "answer": "stratum musculare gastris"
+      },
+      {
+        "question": "Мышечный слой щеки",
+        "answer": "Stratum musculare buccae"
+      },
+      {
+        "question": "мышца, вращающая шею",
+        "answer": "Musculus rotator cervicis"
+      },
+      {
+        "question": "мышца, напрягающая небную занавеску",
+        "answer": "musculus tensor veli palatini"
+      },
+      {
+        "question": "мышца, напрягающая угол рта",
+        "answer": "musculus tensor anguli oris"
+      },
+      {
+        "question": "Мышца, опускающая верхнюю губу",
+        "answer": "Musculus depressor labii superioris"
+      },
+      {
+        "question": "Мышца, поднимающая верхнее веко",
+        "answer": "Musculus levator palpebrae superioris"
+      },
+      {
+        "question": "мышца, сгибающая указательный палец",
+        "answer": "musculus flexor indicis"
+      },
+      {
+        "question": "мякость селезенки",
+        "answer": "Pulpa splenis (lienis)"
+      },
+      {
+        "question": "наружный затылочный выступ",
+        "answer": "protuberantia occipitalis externa"
+      },
+      {
+        "question": "небный отросток верхней челюсти",
+        "answer": "processus palatinus maxillae"
+      },
+      {
+        "question": "нервная система",
+        "answer": "Systema nervosum"
+      },
+      {
+        "question": "нижний отросток скуловой кости",
+        "answer": "processus ossis zygomatici inferior"
+      },
+      {
+        "question": "нижний суставной отросток",
+        "answer": "Processus articularis inferior"
+      },
+      {
+        "question": "нисходящая часть аорты",
+        "answer": "Pars descendens aortae"
+      },
+      {
+        "question": "нисходящая часть прямой кишки",
+        "answer": "pars descendens recti"
+      },
+      {
+        "question": "Носовая полость",
+        "answer": "Cavitas nasalis"
+      },
+      {
+        "question": "Носовая раковина",
+        "answer": "Concha nasalis"
+      },
+      {
+        "question": "Носовой хрящ",
+        "answer": "Cartilago nasalis"
+      },
+      {
+        "question": "носовые хрящи",
+        "answer": "cartilagines nasales"
+      },
+      {
+        "question": "Носослезный нерв",
+        "answer": "Nervus nasolacrimalis"
+      },
+      {
+        "question": "Ожирение серда",
+        "answer": "Cor adiposum"
+      },
+      {
+        "question": "основание черепа",
+        "answer": "basis cranii"
+      },
+      {
+        "question": "отростки позвонка",
+        "answer": "Processus vertebrae"
+      },
+      {
+        "question": "Отросток височной кости",
+        "answer": "Processus ossis temporalis"
+      },
+      {
+        "question": "пазуха носа",
+        "answer": "Sinus nasi"
+      },
+      {
+        "question": "Перегородка носа",
+        "answer": "Septum nasi"
+      },
+      {
+        "question": "Передняя область лица",
+        "answer": "Regio faciei anterior"
+      },
+      {
+        "question": "Перекрест сухожилий",
+        "answer": "Chiasma tendinum"
+      },
+      {
+        "question": "Перепончатая ножка отростка",
+        "answer": "Crus membranaceum processus"
+      },
+      {
+        "question": "Поверхность скуловой кости",
+        "answer": "Facies ossis zygomatici"
+      },
+      {
+        "question": "позвоночное пространство",
+        "answer": "Spatium vertebrale"
+      },
+      {
+        "question": "Полая вена",
+        "answer": "Vena cava"
+      },
+      {
+        "question": "полость живота",
+        "answer": "Сavum abdominis"
+      },
+      {
+        "question": "полость рта",
+        "answer": "Cavitas oris"
+      },
+      {
+        "question": "Полукруглые отверстия",
+        "answer": "Foramina semicircularia"
+      },
+      {
+        "question": "полукруглые отверстия полости",
+        "answer": "Foremina semicircularia cavitatis"
+      },
+      {
+        "question": "правая ветвь воротной вены",
+        "answer": "ramus dexter venae portae"
+      },
+      {
+        "question": "Ребра грудной клетки",
+        "answer": "Costae thoracis"
+      },
+      {
+        "question": "решетчатая кость",
+        "answer": "Os ethmoidale"
+      },
+      {
+        "question": "Свободный край десны",
+        "answer": "Margo liber gingivae"
+      },
+      {
+        "question": "Связки суставов",
+        "answer": "Ligamenta articulationum"
+      },
+      {
+        "question": "сердечное вдавление",
+        "answer": "Impressio cardiaca"
+      },
+      {
+        "question": "Сердечное вдавление печени",
+        "answer": "Impressio cardiaca hepatis"
+      },
+      {
+        "question": "складки прямой кишки",
+        "answer": "plicae recti"
+      },
+      {
+        "question": "Скуловисочная связка",
+        "answer": "Ligamentum zygomaticotemporalis"
+      },
+      {
+        "question": "Скуловисочный нерв",
+        "answer": "Nervus zygomaticotemporalis"
+      },
+      {
+        "question": "Слезные железы",
+        "answer": "Glandulae lacrimales"
+      },
+      {
+        "question": "Слепое отверстие",
+        "answer": "Foramen cecum"
+      },
+      {
+        "question": "слизистая желудка",
+        "answer": "mucosa gastris"
+      },
+      {
+        "question": "Слизистая рта",
+        "answer": "mucosa oris"
+      },
+      {
+        "question": "сосочек языка",
+        "answer": "Papilla linguae"
+      },
+      {
+        "question": "Сосуды сосудов",
+        "answer": "Vasa vasorum"
+      },
+      {
+        "question": "сплетение нервов",
+        "answer": "Plexus nervorum"
+      },
+      {
+        "question": "Створка резца",
+        "answer": "Cuspis incisivi"
+      },
+      {
+        "question": "Сустав колена",
+        "answer": "Articulatio genus"
+      },
+      {
+        "question": "Тройничный нерв",
+        "answer": "Nervus trigeminus"
+      },
+      {
+        "question": "Уздечка верхней губы",
+        "answer": "Frenulum labii superioris"
+      },
+      {
+        "question": "хрящ костной перегородки носа",
+        "answer": "cartilago septi ossei nasi"
+      },
+      {
+        "question": "Хрящи и связки суставов",
+        "answer": "Cortilagines et ligamenta articulationum"
+      },
+      {
+        "question": "Хрящи носа",
+        "answer": "Cartilagines nasi"
+      },
+      {
+        "question": "чешуя затылочной кости",
+        "answer": "squama ossis occipitalis"
+      },
+      {
+        "question": "шейка зуба",
+        "answer": "Cervix dentis"
+      },
+      {
+        "question": "шероховатость языка",
+        "answer": "Asperitas linguae"
+      },
+      {
+        "question": "Шилоглоточный канал",
+        "answer": "Canalis stylopharyngeus"
+      },
+      {
+        "question": "ядра лицевых нервов",
+        "answer": "nuclei nervorum facialium"
+      },
+      {
+        "question": "ядра черепных нервов",
+        "answer": "Nuclei nervorum cranealium"
+      },
+      {
+        "question": "Яремная стенка барабанной полости",
+        "answer": "Paries jugularis cavitatis tympanicae"
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "title": "Переведите на русский язык клинические термины",
+    "items": [
+      {
+        "question": "Necrosis focalis",
+        "answer": "Очаговое омертвление"
+      },
+      {
+        "question": "Actio praeventiva",
+        "answer": "Предохранительное действие"
+      },
+      {
+        "question": "Alternatio dentium",
+        "answer": "Смена зубов"
+      },
+      {
+        "question": "anamnesis vitae",
+        "answer": "припоминание жизни"
+      },
+      {
+        "question": "Anomalia recidiva",
+        "answer": "Возобновляющиеся отклонение от нормы"
+      },
+      {
+        "question": "aphonia endogena",
+        "answer": "Отсутствие голоса внутреннего происхождения"
+      },
+      {
+        "question": "apostasis",
+        "answer": "Накопление веществ"
+      },
+      {
+        "question": "applicatio suturae",
+        "answer": "Наложение шва"
+      },
+      {
+        "question": "arteria pulmonalis communis",
+        "answer": "общая легочная артерия"
+      },
+      {
+        "question": "arthritis migrans",
+        "answer": "блуждающее воспаление сустава"
+      },
+      {
+        "question": "Arthrosis senilis",
+        "answer": "Старческое болезненное состояние суставов"
+      },
+      {
+        "question": "Asphyxia recediva",
+        "answer": "Возобновляющиеся состояние удушения"
+      },
+      {
+        "question": "Calor, dolor, tumor",
+        "answer": "Жар, боль, опухоль"
+      },
+      {
+        "question": "cancer gastris",
+        "answer": "рак желудка"
+      },
+      {
+        "question": "Caries apicalis",
+        "answer": "Верхушечная гнилось"
+      },
+      {
+        "question": "Caries profunda",
+        "answer": "Глубокий кариес"
+      },
+      {
+        "question": "Coma medicamentosum",
+        "answer": "Лекарственная кома"
+      },
+      {
+        "question": "Combustio faciei",
+        "answer": "Ожог лица"
+      },
+      {
+        "question": "Combustio gravis",
+        "answer": "Тяжелый ожог"
+      },
+      {
+        "question": "combustio mucosae gastris",
+        "answer": "ожог слизистой желудка"
+      },
+      {
+        "question": "combustio oesophagi",
+        "answer": "Ожог пищевода"
+      },
+      {
+        "question": "Commotio encephali",
+        "answer": "Сотрясение головного мозга"
+      },
+      {
+        "question": "contractura musculorum facialium",
+        "answer": "Сведение мышц лица"
+      },
+      {
+        "question": "contusio gravis",
+        "answer": "Тяжелый ушиб"
+      },
+      {
+        "question": "Cysta simplex ossis",
+        "answer": "Простая киста кости"
+      },
+      {
+        "question": "decubitus senilis",
+        "answer": "старческий пролежень"
+      },
+      {
+        "question": "degeneratio adiposa",
+        "answer": "жировое вырождение"
+      },
+      {
+        "question": "degeneratio progressiva",
+        "answer": "нарастающее вырождение"
+      },
+      {
+        "question": "Degeneratio totalis",
+        "answer": "Общее упрощение"
+      },
+      {
+        "question": "dentificatio imperfecta",
+        "answer": "Несовершенное образование зубов"
+      },
+      {
+        "question": "dentura imperfecta",
+        "answer": "Несовершенный зубной ряд"
+      },
+      {
+        "question": "Desodoratio oris",
+        "answer": "Устранение запаха рта"
+      },
+      {
+        "question": "Extirpatio dentis",
+        "answer": "Искоренение зуба"
+      },
+      {
+        "question": "extirpatio uteri",
+        "answer": "искоренение матки"
+      },
+      {
+        "question": "Foetor",
+        "answer": "Зловоние"
+      },
+      {
+        "question": "fractura composita",
+        "answer": "сложный перелом"
+      },
+      {
+        "question": "Fractura latens",
+        "answer": "Скрытый перелом"
+      },
+      {
+        "question": "Fractura simplex",
+        "answer": "Простой перелом"
+      },
+      {
+        "question": "furunculus localis",
+        "answer": "Местный фурункул"
+      },
+      {
+        "question": "Gangraena focalis",
+        "answer": "Очаговая гангрена"
+      },
+      {
+        "question": "Habitus aegroti",
+        "answer": "Внешний вид больного"
+      },
+      {
+        "question": "Hepatogenus",
+        "answer": "Печеночного происхождения"
+      },
+      {
+        "question": "Hernia gastrica",
+        "answer": "Грыжа желудка"
+      },
+      {
+        "question": "herpes congenitus",
+        "answer": "врожденный лишай"
+      },
+      {
+        "question": "herpes diffusus",
+        "answer": "разлитой лишай"
+      },
+      {
+        "question": "hypoplasia enameli",
+        "answer": "Недоразвитие эмали"
+      },
+      {
+        "question": "icterus hepatogenus",
+        "answer": "желтуха печеночного происхождения"
+      },
+      {
+        "question": "incisura cardiaca pulmonis sinistri",
+        "answer": "сердечная вырезка левого легкого"
+      },
+      {
+        "question": "indicatio vitalis",
+        "answer": "жизненное показание"
+      },
+      {
+        "question": "infectio acquisita",
+        "answer": "приобретенное заражение"
+      },
+      {
+        "question": "Infectio mixta",
+        "answer": "Смешанное заражение"
+      },
+      {
+        "question": "infectio nosocomialis",
+        "answer": "Внутрибольничное заражение"
+      },
+      {
+        "question": "Infectio secundaria",
+        "answer": "Вторичное заражение"
+      },
+      {
+        "question": "inflammatio acuta",
+        "answer": "острое воспаление"
+      },
+      {
+        "question": "inflammatio hepatogena",
+        "answer": "воспаление печеночного происхождения"
+      },
+      {
+        "question": "Inflammatio medicamentosa",
+        "answer": "Лекарственное воспаление"
+      },
+      {
+        "question": "inflammatio purulenta",
+        "answer": "гнойное воспаление"
+      },
+      {
+        "question": "Insufficientia renalis",
+        "answer": "Почечная недостаточность"
+      },
+      {
+        "question": "intoxicatio medicamentosa",
+        "answer": "лекарственное отравление"
+      },
+      {
+        "question": "Junctura partium",
+        "answer": "Частичное соединение"
+      },
+      {
+        "question": "ligamentum ossis nasalis",
+        "answer": "связка носовой кости"
+      },
+      {
+        "question": "Localisatio fracturae",
+        "answer": "Местонахождение перелома"
+      },
+      {
+        "question": "Luxatio congenita",
+        "answer": "Врожденный вывих"
+      },
+      {
+        "question": "luxatio femoris",
+        "answer": "вывих бедра"
+      },
+      {
+        "question": "luxatio mandibulae",
+        "answer": "вывих нижней челюсти"
+      },
+      {
+        "question": "metastasis morbi",
+        "answer": "Перенос состояния болезни"
+      },
+      {
+        "question": "morbi congeniti",
+        "answer": "врожденные болезни"
+      },
+      {
+        "question": "morbi contagiosi",
+        "answer": "Заразные болезни"
+      },
+      {
+        "question": "Morbus medicamentosus",
+        "answer": "Лекарственная болезнь"
+      },
+      {
+        "question": "morbus ulcerosus",
+        "answer": "Язвенная болезнь"
+      },
+      {
+        "question": "mutatio formae",
+        "answer": "Изменение формы"
+      },
+      {
+        "question": "mutatio textus",
+        "answer": "изменение ткани"
+      },
+      {
+        "question": "mycosis latens",
+        "answer": "Скрытое грибковое заболевание"
+      },
+      {
+        "question": "necrosis focalis",
+        "answer": "Очаговое омертвление"
+      },
+      {
+        "question": "Obliteratio inflammatoria",
+        "answer": "Уничтожение воспалений"
+      },
+      {
+        "question": "Obturatio canalis",
+        "answer": "Закупорка канала"
+      },
+      {
+        "question": "Oedema allergicum",
+        "answer": "Аллергический отек"
+      },
+      {
+        "question": "Oedema malignum",
+        "answer": "Злокачественный отек"
+      },
+      {
+        "question": "oedema pulmonum",
+        "answer": "отек легких"
+      },
+      {
+        "question": "papulae prodromales",
+        "answer": "Предвещающие волдыри"
+      },
+      {
+        "question": "Paralysis",
+        "answer": "Расслабление"
+      },
+      {
+        "question": "Paresis recidiva",
+        "answer": "Возобновляющийся парез"
+      },
+      {
+        "question": "pars lateralis aortae",
+        "answer": "латеральная часть аорты"
+      },
+      {
+        "question": "perforatio ulceris",
+        "answer": "прободение язвы"
+      },
+      {
+        "question": "Phlegmone profunda",
+        "answer": "Глубокое гнойное воспаление"
+      },
+      {
+        "question": "phthisis recidiva",
+        "answer": "Возобновляющаяся чахотка"
+      },
+      {
+        "question": "pigmentatio cutis",
+        "answer": "окрашивание кожи"
+      },
+      {
+        "question": "Pigmentatio dentium",
+        "answer": "Окрашивание зубов"
+      },
+      {
+        "question": "Praemedicatio",
+        "answer": "Лекарственная подготовка к операции"
+      },
+      {
+        "question": "prognosis morbi",
+        "answer": "Знание болезни на перёд"
+      },
+      {
+        "question": "Prognosis optima",
+        "answer": "Очень хороший прогноз"
+      },
+      {
+        "question": "prognosis pessima",
+        "answer": "Очень плохой прогноз"
+      },
+      {
+        "question": "pulpitis acuta",
+        "answer": "острое воспаление мякоти"
+      },
+      {
+        "question": "pulpitis gangraenosa chronica",
+        "answer": "Хроническое гангренозное воспаление мякоти"
+      },
+      {
+        "question": "Pyelonephritis ascendens",
+        "answer": "Восходящее гнойное воспаление в почках"
+      },
+      {
+        "question": "ramus dexter venae portae",
+        "answer": "правая ветвь воротной вены"
+      },
+      {
+        "question": "Regeneratio incompleta",
+        "answer": "Незавершенная регенерация"
+      },
+      {
+        "question": "Remissio morbi",
+        "answer": "Ослабление болезни"
+      },
+      {
+        "question": "Resectio gastris",
+        "answer": "Иссечение/Удаление части желудка"
+      },
+      {
+        "question": "Respiratio spostica",
+        "answer": "Дыхательный спазм"
+      },
+      {
+        "question": "retentio sanationis",
+        "answer": "задержка лечения"
+      },
+      {
+        "question": "rhagades labiales",
+        "answer": "Губные трещины"
+      },
+      {
+        "question": "Rubeola neonatorum",
+        "answer": "Краснуха новорожденных"
+      },
+      {
+        "question": "Sanatio cavitatis oris",
+        "answer": "Излечение полости рта"
+      },
+      {
+        "question": "Sanatio dentium",
+        "answer": "Лечение зубов"
+      },
+      {
+        "question": "Sclerosis angiogena",
+        "answer": "Затвердение сосудистого происхождения"
+      },
+      {
+        "question": "scorbutus exacerbatus",
+        "answer": "Обостренная цинга"
+      },
+      {
+        "question": "Sensibilisatio nervorum",
+        "answer": "Нервная чувствительность"
+      },
+      {
+        "question": "spasmus laryngis",
+        "answer": "Судорога гортани"
+      },
+      {
+        "question": "Spasmus vasorum",
+        "answer": "Спазм сосудов"
+      },
+      {
+        "question": "stomatitis ulcerosa",
+        "answer": "язвенное воспаление полости рта"
+      },
+      {
+        "question": "strabismus",
+        "answer": "Косоглазие"
+      },
+      {
+        "question": "Stupor endogema",
+        "answer": "Оцепенение внутреннего происхождения"
+      },
+      {
+        "question": "stupor psychogenus",
+        "answer": "Оцепенение психического происхождения"
+      },
+      {
+        "question": "symptoma icteri",
+        "answer": "Признак желтухи"
+      },
+      {
+        "question": "symptoma latens",
+        "answer": "Cкрытый признак"
+      },
+      {
+        "question": "Symptoma pestis",
+        "answer": "Признак чумы"
+      },
+      {
+        "question": "symptoma prodromale",
+        "answer": "предвещающий признак"
+      },
+      {
+        "question": "symptoma scorbuti",
+        "answer": "признак цинги"
+      },
+      {
+        "question": "symptoma specificum",
+        "answer": "отличительный признак"
+      },
+      {
+        "question": "symptomata pestis",
+        "answer": "признаки чумы"
+      },
+      {
+        "question": "syncope levis",
+        "answer": "легкий обморок"
+      },
+      {
+        "question": "syndromum cirrhosis",
+        "answer": "Синдром цирроза"
+      },
+      {
+        "question": "tetanus complicatus",
+        "answer": "осложненный столбняк"
+      },
+      {
+        "question": "Tolerantia medicamentorum",
+        "answer": "Терпимость лекарственных веществ"
+      },
+      {
+        "question": "transfusio sanguinis",
+        "answer": "переливание крови"
+      },
+      {
+        "question": "tremor senilis",
+        "answer": "Cтарческое дрожание"
+      },
+      {
+        "question": "tumor benignus",
+        "answer": "Доброкачественная опухоль"
+      },
+      {
+        "question": "Tumor malignus",
+        "answer": "Злокачественная опухоль"
+      },
+      {
+        "question": "ulcus duodeni",
+        "answer": "язва двенадцатиперстной кишки"
+      },
+      {
+        "question": "utrica combustionis",
+        "answer": "Волдырь ожога"
+      },
+      {
+        "question": "vitium cordis",
+        "answer": "Порок сердца"
+      },
+      {
+        "question": "vontusion gravis",
+        "answer": "Тяжёлое сотрясение"
+      },
+      {
+        "question": "vulnus letalis",
+        "answer": "Cмертельная рана"
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "title": "Переведите на латинский язык клинические термины",
+    "items": [
+      {
+        "question": "бессильный человек",
+        "answer": "Homo invalidus"
+      },
+      {
+        "question": "верхушечная гнилость",
+        "answer": "caries apicalis"
+      },
+      {
+        "question": "верхушечная киста",
+        "answer": "cysta apicalis"
+      },
+      {
+        "question": "внешний вид больного",
+        "answer": "habitus aegroti"
+      },
+      {
+        "question": "внешний вид врача",
+        "answer": "Habitus medici"
+      },
+      {
+        "question": "возобновляющаяся лихорадка",
+        "answer": "febris recidiva"
+      },
+      {
+        "question": "Возобновляющаяся чахотка",
+        "answer": "Phthisis recidiva"
+      },
+      {
+        "question": "врожденная желтуха",
+        "answer": "icterus congenitus"
+      },
+      {
+        "question": "вторичное заражение",
+        "answer": "infectio secundaria"
+      },
+      {
+        "question": "вывих головки бедра",
+        "answer": "luxatio capitis femoris"
+      },
+      {
+        "question": "действия врача",
+        "answer": "Actiones medici"
+      },
+      {
+        "question": "детские болезни",
+        "answer": "morbi infantiles"
+      },
+      {
+        "question": "Доброкачественная опухоль",
+        "answer": "Tumor benignus"
+      },
+      {
+        "question": "Дополнительное лечение",
+        "answer": "Curatio accessoria"
+      },
+      {
+        "question": "дрожание пальцев",
+        "answer": "tremor digitorum"
+      },
+      {
+        "question": "желтуха врождённая",
+        "answer": "icterus congenitus"
+      },
+      {
+        "question": "заразная болезнь",
+        "answer": "morbus contagiosus"
+      },
+      {
+        "question": "затвердение сосудов",
+        "answer": "sclerosis vasorum"
+      },
+      {
+        "question": "злокачественная опухоль",
+        "answer": "tumor malignus"
+      },
+      {
+        "question": "Изменение формы",
+        "answer": "Mutatio formae"
+      },
+      {
+        "question": "Краснуха новорожденных",
+        "answer": "Rubeola neonatorum"
+      },
+      {
+        "question": "легкая рана",
+        "answer": "vulnus leve"
+      },
+      {
+        "question": "легкий обморок",
+        "answer": "syncope levis"
+      },
+      {
+        "question": "легкое дрожание",
+        "answer": "Tremor levis"
+      },
+      {
+        "question": "легкое оцепенение",
+        "answer": "Stupor levis"
+      },
+      {
+        "question": "лекарственная выносливость",
+        "answer": "tolerantia medicamentosa"
+      },
+      {
+        "question": "Лекарственная подготовка к операции",
+        "answer": "Praemedicatio"
+      },
+      {
+        "question": "местный прокол",
+        "answer": "punctio localis"
+      },
+      {
+        "question": "Местонахождение язвы",
+        "answer": "Localisatio ulceris"
+      },
+      {
+        "question": "Наложение шва",
+        "answer": "Applicatio raphes"
+      },
+      {
+        "question": "наследственная желтуха",
+        "answer": "icterus hereditarius"
+      },
+      {
+        "question": "носослезный нерв",
+        "answer": "nervus nasolacrimalis"
+      },
+      {
+        "question": "Обострение цинги",
+        "answer": "Exacerbatio scorbuti"
+      },
+      {
+        "question": "Общее состояние",
+        "answer": "Status totalis"
+      },
+      {
+        "question": "ожог лица",
+        "answer": "combustio faciei"
+      },
+      {
+        "question": "ожог слизистой рта",
+        "answer": "Combustio mucosae oris"
+      },
+      {
+        "question": "окрашивание зубов",
+        "answer": "pigmentatio dentium"
+      },
+      {
+        "question": "окрашивание кожи",
+        "answer": "Pigmentatio cutis"
+      },
+      {
+        "question": "Ослабление болезни",
+        "answer": "Remissio morbi"
+      },
+      {
+        "question": "осложненное воспаление",
+        "answer": "inflammatio complicata"
+      },
+      {
+        "question": "Осложненный перелом",
+        "answer": "Fractura complicata"
+      },
+      {
+        "question": "острое воспаление",
+        "answer": "Inflammatio acuta"
+      },
+      {
+        "question": "Отек гортани",
+        "answer": "Oedema laryngis"
+      },
+      {
+        "question": "Отек десны",
+        "answer": "Oedema gingivae"
+      },
+      {
+        "question": "отек легкого",
+        "answer": "oedema pulmonis"
+      },
+      {
+        "question": "отличительный признак",
+        "answer": "symptoma specificum"
+      },
+      {
+        "question": "Отложение веществ",
+        "answer": "Apostasis"
+      },
+      {
+        "question": "отравление лекарственное",
+        "answer": "intoxicatio medicamentosa"
+      },
+      {
+        "question": "оцепенение тела",
+        "answer": "stupor corporis"
+      },
+      {
+        "question": "очаговое воспаление",
+        "answer": "inflammatio focalis"
+      },
+      {
+        "question": "Очаговое омертвление",
+        "answer": "Necrosis focalis"
+      },
+      {
+        "question": "переливание крови",
+        "answer": "transfusio sanguinis"
+      },
+      {
+        "question": "Перенос состояния болезни",
+        "answer": "Metastasis morbi"
+      },
+      {
+        "question": "Поверхностный ожог",
+        "answer": "Combustio superficialis"
+      },
+      {
+        "question": "поверхность скуловой кости",
+        "answer": "facies ossis zygomatici"
+      },
+      {
+        "question": "Полупаралич",
+        "answer": "Paresis"
+      },
+      {
+        "question": "Порок сердца",
+        "answer": "Vitium cordis"
+      },
+      {
+        "question": "Предвещающие прыщи",
+        "answer": "Papullae prodromales"
+      },
+      {
+        "question": "предвещающий признак",
+        "answer": "symptoma prodromale"
+      },
+      {
+        "question": "Предохранительное действие",
+        "answer": "Actio praeventiva"
+      },
+      {
+        "question": "предохранительные действия",
+        "answer": "Actiones praeventives"
+      },
+      {
+        "question": "признаки воспаления",
+        "answer": "symptomata inflammationis"
+      },
+      {
+        "question": "признаки цинги",
+        "answer": "symptomata scorbuti"
+      },
+      {
+        "question": "прободение язвы двенадцатиперстной кишки",
+        "answer": "perforatio ulceris duodeni"
+      },
+      {
+        "question": "Прободение язвы желудка",
+        "answer": "Perforatio ulceris gastris"
+      },
+      {
+        "question": "Прогрессивный отек",
+        "answer": "Oedema progressivus"
+      },
+      {
+        "question": "прокол гнойного воспаления",
+        "answer": "Punctio inflammationis purulentae"
+      },
+      {
+        "question": "прорезывание зубов",
+        "answer": "Dentitio"
+      },
+      {
+        "question": "Простая киста кости",
+        "answer": "Cysta simplex ossis"
+      },
+      {
+        "question": "простукивание, прослушивание, прощупывание",
+        "answer": "Percussio, auscultatio, palpatio"
+      },
+      {
+        "question": "Прощупывание десны",
+        "answer": "Palpatio gingivae"
+      },
+      {
+        "question": "Прощупывание и простукивание живота",
+        "answer": "palpatio et percussio abdominis"
+      },
+      {
+        "question": "разлитой лишай",
+        "answer": "herpes diffusus"
+      },
+      {
+        "question": "распознание болезни",
+        "answer": "diagnosis morbi"
+      },
+      {
+        "question": "распознание цинги",
+        "answer": "diagnosis scorbuti"
+      },
+      {
+        "question": "Распознание чахотки",
+        "answer": "diagnosis phthisis"
+      },
+      {
+        "question": "расслабление",
+        "answer": "Paralysis"
+      },
+      {
+        "question": "Сведение лицевых мышц",
+        "answer": "Contractura musculorum facialium"
+      },
+      {
+        "question": "Сведение суставов",
+        "answer": "Contactura articulationum"
+      },
+      {
+        "question": "свободный край десны",
+        "answer": "margo liber gingivae"
+      },
+      {
+        "question": "Синдром паренхиматозных органов",
+        "answer": "Syndromum organium parenchymatosorum"
+      },
+      {
+        "question": "складки прямой кишки",
+        "answer": "plicae recti"
+      },
+      {
+        "question": "скрытое заражение",
+        "answer": "infectio latens"
+      },
+      {
+        "question": "скрытый признак",
+        "answer": "Symptoma latens"
+      },
+      {
+        "question": "слезные железы",
+        "answer": "glandulae lacrimales"
+      },
+      {
+        "question": "смертельный исход",
+        "answer": "exitus letalis"
+      },
+      {
+        "question": "Сотрясение головного мозга ",
+        "answer": "Commotio encephali"
+      },
+      {
+        "question": "Столбняк",
+        "answer": "Tetanus"
+      },
+      {
+        "question": "Судорога гортани",
+        "answer": "Spasmus laryngis"
+      },
+      {
+        "question": "Сужение сосудов",
+        "answer": "Stenosis vasorum"
+      },
+      {
+        "question": "Тяжелое состояние",
+        "answer": "Status gravis"
+      },
+      {
+        "question": "тяжелый порок",
+        "answer": "Vitium grave"
+      },
+      {
+        "question": "Хронический нарыв",
+        "answer": "Empyema chonicus"
+      },
+      {
+        "question": "цинга",
+        "answer": "Scorbutus"
+      },
+      {
+        "question": "чешуйчатый лишай",
+        "answer": "herpes squamosus"
+      },
+      {
+        "question": "Язва двенадцатиперстной кишки",
+        "answer": "Ulcus duodeni"
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "title": "Переведите на русский язык клинические термины, состоящие из греческих терминоэлементов",
+    "items": [
+      {
+        "question": "Aetiologia",
+        "answer": "Учение о причинах болезней"
+      },
+      {
+        "question": "aetiotropus",
+        "answer": "направленный на причину"
+      },
+      {
+        "question": "Allergia",
+        "answer": "Чувствительность иммунной системы"
+      },
+      {
+        "question": "Amnesia",
+        "answer": "Отсутствие памяти"
+      },
+      {
+        "question": "anaesthesiologia",
+        "answer": "учение об отсутствии чувствительности"
+      },
+      {
+        "question": "analgesia",
+        "answer": "Отсутствие боли"
+      },
+      {
+        "question": "Angioectasia",
+        "answer": "Растяжение сосуда"
+      },
+      {
+        "question": "Anthropologia",
+        "answer": "Учение о человеке"
+      },
+      {
+        "question": "arthropathia",
+        "answer": "заболевание суставов"
+      },
+      {
+        "question": "arthrosis",
+        "answer": "болезненное состояние суставов"
+      },
+      {
+        "question": "Biogenesis",
+        "answer": "Происхождение жизни"
+      },
+      {
+        "question": "biologia",
+        "answer": "учение о жизни"
+      },
+      {
+        "question": "Blepharitis",
+        "answer": "Воспаление век"
+      },
+      {
+        "question": "cardialgia",
+        "answer": "боль в области сердца"
+      },
+      {
+        "question": "Cardiologia",
+        "answer": "Учение о сердце"
+      },
+      {
+        "question": "Cephalgia",
+        "answer": "Головная боль"
+      },
+      {
+        "question": "cephalometria",
+        "answer": "измерение головы"
+      },
+      {
+        "question": "сheilitis",
+        "answer": "Воспаление губы"
+      },
+      {
+        "question": "cheilodynia",
+        "answer": "боль в области губы"
+      },
+      {
+        "question": "Cheilognathouranoschisis",
+        "answer": "Расщепление губы, верхней челюсти и твердого неба"
+      },
+      {
+        "question": "chlorodontia",
+        "answer": "Зеленый окрас зубов"
+      },
+      {
+        "question": "cholecystitis",
+        "answer": "воспаление желчного пузыря"
+      },
+      {
+        "question": "Craniometria",
+        "answer": "Измерение черепа"
+      },
+      {
+        "question": "Dacryocystitis",
+        "answer": "Воспаление слезного мешка"
+      },
+      {
+        "question": "dermatitis",
+        "answer": "Воспаление кожи"
+      },
+      {
+        "question": "Dysphagia",
+        "answer": "Нарушение глотания"
+      },
+      {
+        "question": "Dysplasia",
+        "answer": "Нарушение развития"
+      },
+      {
+        "question": "Ectopia",
+        "answer": "Смещение положения органа в другое место"
+      },
+      {
+        "question": "encephalitis",
+        "answer": "воспаление головного мозга"
+      },
+      {
+        "question": "Endocarditis",
+        "answer": "Воспаление внутренней оболочки сердца"
+      },
+      {
+        "question": "endometritis",
+        "answer": "воспаление внутренней оболочки матки"
+      },
+      {
+        "question": "Gastritis",
+        "answer": "Воспаление желудка"
+      },
+      {
+        "question": "gastroenterologia",
+        "answer": "учение о ЖКТ"
+      },
+      {
+        "question": "glossitis",
+        "answer": "воспаление языка"
+      },
+      {
+        "question": "glossodynia",
+        "answer": "Боль в области языка"
+      },
+      {
+        "question": "glossopexia",
+        "answer": "Фиксация языка"
+      },
+      {
+        "question": "glossoprivus",
+        "answer": "обусловленный отсутствием языка"
+      },
+      {
+        "question": "glossoptosis",
+        "answer": "опущение языка"
+      },
+      {
+        "question": "gnathoschisis",
+        "answer": "расщепление верхней челюсти"
+      },
+      {
+        "question": "Haemopoesis",
+        "answer": "Выработка крови / кроветворение"
+      },
+      {
+        "question": "Haemostasis",
+        "answer": "Застой крови"
+      },
+      {
+        "question": "hepatitis",
+        "answer": "Воспаление печени"
+      },
+      {
+        "question": "hepatomegalia",
+        "answer": "увеличение печени"
+      },
+      {
+        "question": "histologia",
+        "answer": "учение о тканях"
+      },
+      {
+        "question": "Homeostatis",
+        "answer": "Подобный застой"
+      },
+      {
+        "question": "hydraemia",
+        "answer": "вода в крови"
+      },
+      {
+        "question": "hydrophobia",
+        "answer": "боязнь воды"
+      },
+      {
+        "question": "hyperaesthesia",
+        "answer": "повышенная чувствительность"
+      },
+      {
+        "question": "Hypokaliaemia",
+        "answer": "Пониженное содержание калия в крови"
+      },
+      {
+        "question": "iatrogenus",
+        "answer": "Вызванный действиями врача"
+      },
+      {
+        "question": "Keratitis",
+        "answer": "Воспаление роговицы"
+      },
+      {
+        "question": "leucocytosis",
+        "answer": "повышенное содержание лейкоцитов"
+      },
+      {
+        "question": "lipoma",
+        "answer": "опухоль жировой ткани"
+      },
+      {
+        "question": "Meloplastica",
+        "answer": "Хирургическая операция восстановление щеки"
+      },
+      {
+        "question": "Meningocele",
+        "answer": "Грыжа мозговых оболочек"
+      },
+      {
+        "question": "Myalgia",
+        "answer": "Боль в мышцах"
+      },
+      {
+        "question": "myologia",
+        "answer": "учение о мышцах"
+      },
+      {
+        "question": "myoma",
+        "answer": "Опухоль мышц"
+      },
+      {
+        "question": "Nephropexia",
+        "answer": "Фиксация почки"
+      },
+      {
+        "question": "Nephrosis",
+        "answer": "Воспаление почки"
+      },
+      {
+        "question": "odontogenesis",
+        "answer": "Происхождение зубов"
+      },
+      {
+        "question": "Odontolithiasis",
+        "answer": "Болезнь вызванная камнями зуба"
+      },
+      {
+        "question": "Odontolithus",
+        "answer": "Камень зуба"
+      },
+      {
+        "question": "odontotherapia",
+        "answer": "лечение зубов"
+      },
+      {
+        "question": "Oncogenesis",
+        "answer": "Развитие опухоли"
+      },
+      {
+        "question": "Orthopaedia",
+        "answer": "Профилактика и лечение дефектов тела"
+      },
+      {
+        "question": "Osteogenus",
+        "answer": "Костного происхождения"
+      },
+      {
+        "question": "osteomalacia",
+        "answer": "Размягчение костей"
+      },
+      {
+        "question": "pancreatitis",
+        "answer": "воспаление поджелудочной железы"
+      },
+      {
+        "question": "Parodontitis",
+        "answer": "Воспаление пародонта"
+      },
+      {
+        "question": "phagocytopenia",
+        "answer": "нехватка поглощающих клеток"
+      },
+      {
+        "question": "pharmacotherapia",
+        "answer": "лечение лекарствами"
+      },
+      {
+        "question": "phoniatria",
+        "answer": "лечение голоса"
+      },
+      {
+        "question": "poliomyelitis",
+        "answer": "воспаление серого вещества спинного мозга"
+      },
+      {
+        "question": "prosopometria",
+        "answer": "измерение лица"
+      },
+      {
+        "question": "Pulpotomia",
+        "answer": "Рассечение мякоти"
+      },
+      {
+        "question": "pyaemia",
+        "answer": "Гной в крови"
+      },
+      {
+        "question": "pyelonephritis",
+        "answer": "Гнойное воспаление почки"
+      },
+      {
+        "question": "retrogenia",
+        "answer": "выдвижение назад нижней челюсти"
+      },
+      {
+        "question": "rhinitis",
+        "answer": "воспаление носа"
+      },
+      {
+        "question": "Rhinoplastica",
+        "answer": "Х.о. по восстановлению носа"
+      },
+      {
+        "question": "rhinorrhagia",
+        "answer": "носовое кровотечение"
+      },
+      {
+        "question": "Rhinoscopia",
+        "answer": "Инструментальное обследование полости носа"
+      },
+      {
+        "question": "Sialadenitis",
+        "answer": "Воспаление слюнной железы"
+      },
+      {
+        "question": "sialolithiasis",
+        "answer": "слюннокаменная болезнь"
+      },
+      {
+        "question": "sialolithus",
+        "answer": "слюнной камень"
+      },
+      {
+        "question": "sialorrhoea",
+        "answer": "Слюнотечение/истечение слюны"
+      },
+      {
+        "question": "Sialostatis",
+        "answer": "Застой слюны"
+      },
+      {
+        "question": "sinusitis",
+        "answer": "Воспаление пазухи"
+      },
+      {
+        "question": "Stomatitis",
+        "answer": "Воспаление ротовой полости"
+      },
+      {
+        "question": "stomatoscopia",
+        "answer": "осмотр ротовой полости; stomato - рот; scopia - осмотр;"
+      },
+      {
+        "question": "thrombocytosis",
+        "answer": "Увеличение количества тромбоцитов"
+      },
+      {
+        "question": "Thyreotropus",
+        "answer": "Действующий на щитовидную железу"
+      },
+      {
+        "question": "Ulodynia",
+        "answer": "Боль в десне"
+      },
+      {
+        "question": "Ulotomia",
+        "answer": "Рассечение десны"
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "title": "Переведите на латинский язык клинические термины, состоящие из греческих терминоэлементов",
+    "items": [
+      {
+        "question": "Болезненное состояние кожи",
+        "answer": "Dermatosis"
+      },
+      {
+        "question": "болезненное состояние почек",
+        "answer": "nephrosis"
+      },
+      {
+        "question": "болезненное состояние суставов",
+        "answer": "arthrosis"
+      },
+      {
+        "question": "боль в области десны",
+        "answer": "ulalgia"
+      },
+      {
+        "question": "Боль в области сердца",
+        "answer": "Cardialgia"
+      },
+      {
+        "question": "Боязнь воды",
+        "answer": "Hydrophobia"
+      },
+      {
+        "question": "боязнь крови",
+        "answer": "haemophobia"
+      },
+      {
+        "question": "воспаление век",
+        "answer": "blepharitis"
+      },
+      {
+        "question": "воспаление влагалища",
+        "answer": "colpitis"
+      },
+      {
+        "question": "Воспаление всех артерий",
+        "answer": "Polyartheritis"
+      },
+      {
+        "question": "воспаление кожи",
+        "answer": "dermatitis"
+      },
+      {
+        "question": "воспаление мякоти",
+        "answer": "Pulpitis"
+      },
+      {
+        "question": "Воспаление пазух",
+        "answer": "Sinusitis"
+      },
+      {
+        "question": "Воспаление поджелудочной железы",
+        "answer": "Pancreatitis"
+      },
+      {
+        "question": "воспаление селезенки",
+        "answer": "Spenitis"
+      },
+      {
+        "question": "воспаление слезного мешка",
+        "answer": "Dacryocystitis"
+      },
+      {
+        "question": "Воспаление языка",
+        "answer": "Glossitis"
+      },
+      {
+        "question": "Восстановление речи",
+        "answer": "Logopedia"
+      },
+      {
+        "question": "Врачевание детей",
+        "answer": "Pediatria"
+      },
+      {
+        "question": "выдвижение вперед нижней челюсти",
+        "answer": "progenia"
+      },
+      {
+        "question": "Выработка мочи",
+        "answer": "Uropoesis"
+      },
+      {
+        "question": "Головная боль",
+        "answer": "cephalgia"
+      },
+      {
+        "question": "грыжа мозговых оболочек",
+        "answer": "meningocele"
+      },
+      {
+        "question": "Дальнозоркость",
+        "answer": "Hypermetropia"
+      },
+      {
+        "question": "движение желчи",
+        "answer": "cholekinesia"
+      },
+      {
+        "question": "десневое кровотечение",
+        "answer": "Ulorrhagia"
+      },
+      {
+        "question": "желтый окрас кожи",
+        "answer": "Xantodermia"
+      },
+      {
+        "question": "желудочное кровотечение",
+        "answer": "gastrorrhagia"
+      },
+      {
+        "question": "Желчекаменная болезнь",
+        "answer": "cholelithiasis"
+      },
+      {
+        "question": "застой желчи",
+        "answer": "cholestasis"
+      },
+      {
+        "question": "застой крови",
+        "answer": "haemostatis"
+      },
+      {
+        "question": "Застой слюны",
+        "answer": "Sialostasis"
+      },
+      {
+        "question": "зубная боль",
+        "answer": "Odontalgia"
+      },
+      {
+        "question": "зубной камень",
+        "answer": "Odontolithus"
+      },
+      {
+        "question": "измерение пульса",
+        "answer": "Sphygmometria"
+      },
+      {
+        "question": "иссечение мякоти",
+        "answer": "Pulpectomia"
+      },
+      {
+        "question": "исследование ротовой полости",
+        "answer": "Stomatoscopia"
+      },
+      {
+        "question": "истечение из носа",
+        "answer": "rhinorrhoea"
+      },
+      {
+        "question": "кроветворение",
+        "answer": "haemopoesis"
+      },
+      {
+        "question": "кровь в моче",
+        "answer": "Haematuria"
+      },
+      {
+        "question": "Лечение водой",
+        "answer": "Нydrotherapia"
+      },
+      {
+        "question": "лечение зубов",
+        "answer": "Odontotherapia"
+      },
+      {
+        "question": "Лечение холодом",
+        "answer": "Cryotherapia"
+      },
+      {
+        "question": "малокровие",
+        "answer": "anaemia"
+      },
+      {
+        "question": "малые размеры языка",
+        "answer": "Microglossia"
+      },
+      {
+        "question": "Маточное кровотечение",
+        "answer": "Metrorrhagia"
+      },
+      {
+        "question": "Множественное воспаление суставов",
+        "answer": "Polyarthritis"
+      },
+      {
+        "question": "Моча в крови",
+        "answer": "Uraemia"
+      },
+      {
+        "question": "мочекаменная болезнь",
+        "answer": "urolithiasis"
+      },
+      {
+        "question": "Мышечная опухоль",
+        "answer": "Myoma"
+      },
+      {
+        "question": "Мышечная слабость",
+        "answer": "Myasthenia"
+      },
+      {
+        "question": "Наложение устья на пищевод",
+        "answer": "Oesophagostomia"
+      },
+      {
+        "question": "наложение шва на губу",
+        "answer": "cheilorrhaphi"
+      },
+      {
+        "question": "Направленный на причину",
+        "answer": "Aetiotropus"
+      },
+      {
+        "question": "нарушение глотания",
+        "answer": "dysphagia"
+      },
+      {
+        "question": "Нарушение мочеиспускания",
+        "answer": "Dysuria"
+      },
+      {
+        "question": "нарушение питания",
+        "answer": "dystrophia"
+      },
+      {
+        "question": "нарушение развития зубов",
+        "answer": "Dysodontoplasia"
+      },
+      {
+        "question": "Наука о сердце",
+        "answer": "Cardiologia"
+      },
+      {
+        "question": "Неполное развитие зубов",
+        "answer": "Atelodontia"
+      },
+      {
+        "question": "Носовое кровотечение",
+        "answer": "Rhinorrhagia"
+      },
+      {
+        "question": "обезболивание",
+        "answer": "analgesia"
+      },
+      {
+        "question": "Обусловлен происхождением костей",
+        "answer": "Osteogenus"
+      },
+      {
+        "question": "Обусловленный отсутствием языка",
+        "answer": "Glossoprivus"
+      },
+      {
+        "question": "однородный",
+        "answer": "homogenus"
+      },
+      {
+        "question": "Опухоль в мышце",
+        "answer": "Myoma"
+      },
+      {
+        "question": "Опухоль из костной ткани",
+        "answer": "Osteoblastoma"
+      },
+      {
+        "question": "Опущение внутренних органов",
+        "answer": "Splanchnoptosis"
+      },
+      {
+        "question": "опущение языка",
+        "answer": "glossoptosis"
+      },
+      {
+        "question": "Осмотр желудка",
+        "answer": "Gastroscopia"
+      },
+      {
+        "question": "Осмотр полости носа",
+        "answer": "Rhinoscopia"
+      },
+      {
+        "question": "осмотр полости рта",
+        "answer": "stomatoscopia"
+      },
+      {
+        "question": "Отсутствие волос",
+        "answer": "Atrichia"
+      },
+      {
+        "question": "Отсутствие памяти",
+        "answer": "Amnesia"
+      },
+      {
+        "question": "печеночного происхождения",
+        "answer": "Hepatogenus"
+      },
+      {
+        "question": "Повышенная чувствительность",
+        "answer": "Hyperoaesthesia"
+      },
+      {
+        "question": "повышенное содержание белых кровяных клеток",
+        "answer": "leucocytosis"
+      },
+      {
+        "question": "повышенное содержание красных кровяных клеток",
+        "answer": "erythrocystosis"
+      },
+      {
+        "question": "повышенное содержание лейкоцитов в крови",
+        "answer": "leucocytosis"
+      },
+      {
+        "question": "Повышенное содержание сахара в крови",
+        "answer": "Hyperglycaemia"
+      },
+      {
+        "question": "Происхождение жизни",
+        "answer": "Biogenesis"
+      },
+      {
+        "question": "Размягчение костей",
+        "answer": "Osteomalacia"
+      },
+      {
+        "question": "размягчение хрящей",
+        "answer": "chondromalacia"
+      },
+      {
+        "question": "разнородный",
+        "answer": "Heterogenus"
+      },
+      {
+        "question": "разрастание волокнистой опухоли",
+        "answer": "fibromatosis"
+      },
+      {
+        "question": "Разрастание раковой опухоли",
+        "answer": "Сarcinomathosis"
+      },
+      {
+        "question": "разрастание сосочковой опухоли",
+        "answer": "Papillomatosis"
+      },
+      {
+        "question": "разрыв сердца",
+        "answer": "Cardiorrhexis"
+      },
+      {
+        "question": "распознавание",
+        "answer": "Diagnosis"
+      },
+      {
+        "question": "рассечение десны",
+        "answer": "ulotomia"
+      },
+      {
+        "question": "расстройство питания",
+        "answer": "dystrophia"
+      },
+      {
+        "question": "скопление гноя",
+        "answer": "empyema"
+      },
+      {
+        "question": "скопление крови",
+        "answer": "haemostasis"
+      },
+      {
+        "question": "слабоумие",
+        "answer": "oligophrenia"
+      },
+      {
+        "question": "слюнотечение",
+        "answer": "Sialorrhoea"
+      },
+      {
+        "question": "совместная деятельность",
+        "answer": "synergia"
+      },
+      {
+        "question": "Сухость губ",
+        "answer": "Xerocheilia"
+      },
+      {
+        "question": "Темная опухоль",
+        "answer": "Melanoma"
+      },
+      {
+        "question": "Тепловой удар",
+        "answer": "Thermoplegia"
+      },
+      {
+        "question": "Теплолюбивый",
+        "answer": "Thermophilus"
+      },
+      {
+        "question": "увеличение языка",
+        "answer": "Glossomegalia"
+      },
+      {
+        "question": "Увеличенная селезенка",
+        "answer": "Macrochylius"
+      },
+      {
+        "question": "Учащенное сердцебиение",
+        "answer": "Tachycardia"
+      },
+      {
+        "question": "учение о причинах",
+        "answer": "aetiologia"
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "title": "Фармацевтическая терминология.\nНапишите на латинском языке названия лекарственных средств",
+    "items": [
+      {
+        "question": "аллохол",
+        "answer": "Allocholum желчь"
+      },
+      {
+        "question": "амидопирин",
+        "answer": "Amidopyrinum; amid - амид; pyr - жар, огонь | жаропонижающее или красный цвет"
+      },
+      {
+        "question": "анальгин",
+        "answer": "Analginum; an - отсутствие; alg - боль;"
+      },
+      {
+        "question": "Апоморфин",
+        "answer": "Apomorphinum morph - сон"
+      },
+      {
+        "question": "аспирин",
+        "answer": "Aspirinum; a - реакция ацетилирования; spir - спириновая кислота"
+      },
+      {
+        "question": "Атропин",
+        "answer": "Atropinum trop - направление"
+      },
+      {
+        "question": "барбамил",
+        "answer": "Barbamylum; barb - сон наркотическое снотворное; amyl - амил"
+      },
+      {
+        "question": "Валокардин",
+        "answer": "Valocardinum cardi - сердце"
+      },
+      {
+        "question": "витрум",
+        "answer": "Vitrum; vit - жизнь | комбинированные витаминные препараты"
+      },
+      {
+        "question": "вулнузан",
+        "answer": "Vulnusanum"
+      },
+      {
+        "question": "Гепарин",
+        "answer": "Heparinum"
+      },
+      {
+        "question": "Глицерин",
+        "answer": "Glycerinum glyc - сладкий"
+      },
+      {
+        "question": "дерматол",
+        "answer": "Dermatolum; dermat - кожа"
+      },
+      {
+        "question": "дибазол",
+        "answer": "Dibazolum; di - два; zol - присутствие азота"
+      },
+      {
+        "question": "ихтиол",
+        "answer": "Ichthyolum; ichthy - рыба; ol - масло"
+      },
+      {
+        "question": "кокарбоксилаза",
+        "answer": "Сocarboxylasum наличие карбона кислый"
+      },
+      {
+        "question": "Кортикостерон",
+        "answer": "Corticosteronum cortic - кора"
+      },
+      {
+        "question": "ксероформ",
+        "answer": "Xerophormium,i m; xero- сухость; phormica - муравей, антисептик"
+      },
+      {
+        "question": "левомицетин",
+        "answer": "Laevomycetinum; laevo - губить; myc - гриб | антибиотик"
+      },
+      {
+        "question": "Мономицин",
+        "answer": "Monomycinum mycin - гриб"
+      },
+      {
+        "question": "нафтизин",
+        "answer": "Naphthizinum,i m naphtha-нос"
+      },
+      {
+        "question": "нитроглицерин",
+        "answer": "Nitroglycerinum; nitr - азот; glyc - сладкий | плазмозамещающие средства"
+      },
+      {
+        "question": "норсульфазол",
+        "answer": "Norsulfazolum"
+      },
+      {
+        "question": "офтальмол",
+        "answer": "Ophtalmolum,i m ophtalmo- глаз"
+      },
+      {
+        "question": "папаверин",
+        "answer": "Papaverinum papaver- мак"
+      },
+      {
+        "question": "пенициллин",
+        "answer": "Penicillinum"
+      },
+      {
+        "question": "пенталгин",
+        "answer": "Pentalginum,i m Penta- пять; algos- боль"
+      },
+      {
+        "question": "пиоцид",
+        "answer": "Pyocidum убивать, гной"
+      },
+      {
+        "question": "платифиллин",
+        "answer": "Platyphyllinum; platyphyll (Senecio platyphyllus---крестовник плосколистный)---алкалоид; platy---плоский; phyll---лист; in---вещество, продукт;"
+      },
+      {
+        "question": "прогестерон",
+        "answer": "Progesteronum; pro - для; gest - беременность | гестагены"
+      },
+      {
+        "question": "Септистин",
+        "answer": "Septistinum sept- гнилостный"
+      },
+      {
+        "question": "синестрол",
+        "answer": "Synoestrolum"
+      },
+      {
+        "question": "синтомицин",
+        "answer": "Synthomycinum; syn - вместе; myc - гриб | антибиотик"
+      },
+      {
+        "question": "стрептоцид",
+        "answer": "Streptocidum; strept - цепочка; cid - убивать;"
+      },
+      {
+        "question": "строфантин",
+        "answer": "Strophanthinum; Strophanthus - строфант; stroph---оборот;"
+      },
+      {
+        "question": "су",
+        "answer": "Sulfadimethoxinum,i m sulfa- сера"
+      },
+      {
+        "question": "сульфатиазол",
+        "answer": "Sulfathiazolum; sulf - сера | сульфаниламиды; thi - сера; zol - присутствие азота;"
+      },
+      {
+        "question": "теофиллин",
+        "answer": "Theophyllinum phyll-лист"
+      },
+      {
+        "question": "тестостерон",
+        "answer": "Testosteronum; test - яичко | отношение к мужским половым органам; ster---крепкий; андрогены;"
+      },
+      {
+        "question": "тетрациклин",
+        "answer": "Tetracyclinum; tetra - четыре; cycl - круг | группа тетрациклина;"
+      },
+      {
+        "question": "тиамин",
+        "answer": "Thiaminum; thi - сера; amin - амин;"
+      },
+      {
+        "question": "Уросульфан",
+        "answer": "Urosulfanum моча, сера"
+      },
+      {
+        "question": "Фенобарбитал",
+        "answer": "Phenobarbitalum phen- светить"
+      },
+      {
+        "question": "фенокс",
+        "answer": "Phenoximethylpenicillinum"
+      },
+      {
+        "question": "фталазол",
+        "answer": "Phthalazolum; phth(naptha) - нефть; zol---присутствие азота; "
+      },
+      {
+        "question": "хлороформ",
+        "answer": "Chloroformium; chlor - хлор, зеленый; form---форма;"
+      },
+      {
+        "question": "эритростим",
+        "answer": "Erythrostimum; erythro - красный; stim---побуждение | стимуляторы кроветворения;"
+      },
+      {
+        "question": "этазол",
+        "answer": "Aethazolum; aeth - эфир | наличие этила, этилена; zol---присутствие азота;"
+      },
+      {
+        "question": "Этилморфин",
+        "answer": "Aethylmorphinum aethyl - эфир"
+      },
+      {
+        "question": "Эуфиллин",
+        "answer": "Euphyllinum"
+      },
+      {
+        "question": "эфедрин",
+        "answer": "Ephedrinum хвоя"
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "title": "Фармацевтическая терминология.\nНапишите рецепты на латинском языке",
+    "items": [
+      {
+        "question": "Возьми: Гидрохлорида линкомицина 0,25\nВыдать такие дозы числом 20 в капсулах\nОбозначить:",
+        "answer": "Recipe: Lincomycin hydrochloridei 0,25\nDentur tales doses numero 20 in capsulis\nSignetur:"
+      },
+      {
+        "question": "Возьми: Ацетилсалициловой кислоты\nФенацетина по 0,25\nКофеина 0,05\nВыдай такие дозы числом 12 в таблетках\nОбозначь:",
+        "answer": "Recipe: Acidi acetylsalicylici\nPhenacetini ana 0,25\nCoffeini 0,05\nDa tales doses numero 12 in tabulettis\nSigna:"
+      },
+      {
+        "question": "Возьми: Гидротартрата платифиллина 0,03\nБромида натрия 0,15\nКофеина-бензоата натрия 0,15\nСмешай, пусть получится порошок\nПусть будут выданы такие дозы числом 12\nПусть будет обозначено:",
+        "answer": "Recipe: Platypyhllini hydrotartratis 0,03\nNatrii bromidi 0,15\nCoffeini-natrii benzoatis 0,15\nMisce, ut fiat pulvis\nDentur tales doses numero 12\nSignetur:"
+      },
+      {
+        "question": "Возьми: Жидкого экстракта алоэ 1 мл\nВыдать такие дозы числом 10 в ампулах\nОбозначь:",
+        "answer": "Recipe: Extracti Aloes fluidi 1 ml\nDentur tales doses numero 10 in ampullis\nSignetur:"
+      },
+      {
+        "question": "Возьми: Раствора пенициллина 0,8% 15 мл\nФурацилина 0,003\nДимедрола 0,02\nГидрохлорида эфедрина 0,2\nРаствора гидрохлорида адреналина 0,1%\nДесять капель\nПусть будет смешано, выдано, обозначено:",
+        "answer": "Recipe: Solutions Penicillini 0,8% 15 ml\nFuracilini 0,003\nDimedroli 0,02\nEphedrini hydrochloridi 0,2\nSolutions Adrenalini hydrochloridi 0,1% X guttas\nMisceatur. Detur. Signetur:"
+      },
+      {
+        "question": "Возьми: Таблетки эритромицина 0,25 числом 10\nВыдай. Обозначь:",
+        "answer": "Recipe: Tabulettas Erythromycini 0,25 numero 10\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Настойки коры дуба спиртовой 25 мл\nПусть будет выдано. Обозначено:",
+        "answer": "Recipe: Tincturae corticis Quercus spirituosae 25 ml\nDetur. Signetur:"
+      },
+      {
+        "question": "Возьми: Таблетки лактата кальция 0,5 числом 10\nВыдай. Обозначь:",
+        "answer": "Recipe: Tabulettas Calcii lactatis 0,5 numero 10\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Дикаина 0,2\nЧистого фенола 3,0\nХлороформа 2 мл\nСмешай. Выдай. Обозначь:",
+        "answer": "Recipe: Dicaini 0,2\nPhenoli puri 3,0\nChloroformii 2 ml\nMisce. Da. Signa:"
+      },
+      {
+        "question": "Возьми: Таблетки липоевой кислоты 0,25 числом 50\nВыдать. Обозначить:",
+        "answer": "Recipe: Tabulettas acidi lipoici 0,25 numero 50\nDetur. Signetur:"
+      },
+      {
+        "question": "Возьми: Сульфата цинка\nПшеничного крахмала по 12,0\nЖелтого вазелина до 50,0\nСмешай, пусть получится паста\nВыдай. Обозначь:",
+        "answer": "Recipe: Zinci sulfatis\nAmyli Tritici ana 12,0\nVaselini flavi ad 50,0\nMisce, ut fiat pasta\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Таблетки тетрациклина с нистатином, покрытые оболочкой числом 25\nРаствора эуфиллина 2% 25 мл\nВыдать. Обозначить:",
+        "answer": "Recipe: Tabulettas obductas Tetracyclini cum Nystatino numero 25\nSolutions Euphyllini 2% 25 ml\nDetur. Signetur:"
+      },
+      {
+        "question": "Возьми: Раствора синезстрола масляного 0,1% 1 мл\nВыдать такие дозы числом 6 в ампулах\nОбозначить:",
+        "answer": "Recipe: Solutions Synoestroli oleosae 0,1% 1 ml\nDentur tales doses numero 6 in ampullis\nSignetur:"
+      },
+      {
+        "question": "Возьми: Анестезина 3,0\nДикаина\nМентола по 2,0\nЭтилового спирта 95% 5 мл\nСмешай. Выдай. Обозначь:",
+        "answer": "Recipe: Anaesthesini 3,0\nDicaini\nMentholi ana 2,0\nSpiritus aethylici 95% 5 ml\nMisce. Da. Signa:"
+      },
+      {
+        "question": "Возьми: Раствора сульфата гентамицина 4% 2 мл\nВыдать такие дозы числом 10 в ампулах\nОбозначить:",
+        "answer": "Recipe: Solutions Gentamycin sulfatis 4% 2 ml\nDentur tales doses numero 10 in ampullis\nSigna:"
+      },
+      {
+        "question": "Возьми: Таблетки тетрабората калия 0,1 числом 20\nВыдать. Обозначить:",
+        "answer": "Recipe: Tabulettas Kalii tetraboratis 0,1 numero 20\nDetur. Signetur:"
+      },
+      {
+        "question": "Возьми: Бензилпенициллина-натрия 25000 ЕД\nГидрохлорида эфедрина 0,05\nСтрептоцида\nНорсульфазола по 1,5\nСмешай, пусть получится порошок.\nВыдай. Обозначь:",
+        "answer": "Recipe: Natrii-Benzilpenicillini 25000 ЕД\nEphedrini Hydrochloridi 0,05\nStreptocidi\nNorsulfazoli ana 1,5\nMisce, fiat pulvis\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Перекиси водорода 25 мл\nПусть будет выдано. Обозначено:",
+        "answer": "Recipe: Hydrogenii peroxidi 25 ml\nDetur. Signetur:"
+      },
+      {
+        "question": "Возьми: Раствора тетрабората калия 4% 2 мл\nВыдай такие дозы числом 10 в ампулах.\nОбозначь:",
+        "answer": "Recipe: Solutions Kalii tetraborati 4% 2 ml\nDa tales doses numero 10 in ampullis.\nSigna:"
+      },
+      {
+        "question": "Возьми: Раствора метиленового синего 2% 25 мл\nПусть будет выдано. Обозначено:",
+        "answer": "Recipe: Solutions metyleni coerulei 25% 25 ml\nDetur. Signetur:"
+      },
+      {
+        "question": "Возьми: Таблетки платифиллина 0,5 числом 10\nВыдай. Обозначь:",
+        "answer": "Recipe: Tabulettas plathypyillini 0,5 numero 10\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Аспирина 0,2 числом 6\nТетрациклина 0,03 числом 10\nГлицерофосфата кальция в таблетках числом 50\nВыдать. Обозначить:",
+        "answer": "Recipe: Aspyrini 0,2 numero 6\nTetracyclini 0,03 numero 10\nCalcii glycerophosphatis in tabulettis numero 50\nDetur. Signetur."
+      },
+      {
+        "question": "Возьми: Таблетки стрептомицина числом 10\nВыдать. Обозначить:",
+        "answer": "Recipe: Tabulettas Streptomycini numero 10\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Спиртового раствора фурацилина 0,1% 2 мл\nМентола 0,06\nЭвкалиптового масла\nКасторового масла\nОливкового масла по 15 мл\nСмешай. Выдай. Обозначь:",
+        "answer": "Recipe: Solutions spirituosae Furacilini 0,2% 2 ml\nMentholi 0,06\nOlei Eucalipthi\nOlei Ricini\nOlei Olivari ana 15 ml\nMisce. Da. Signa:"
+      },
+      {
+        "question": "Возьми: Гидротартрата платифиллина в таблетках числом 6\nНитроглицерина 0,03 числом 10\nАмпициллина в ампулах числом 50\nВыдать. Обозначить:",
+        "answer": "Recipe: Platiphyllini hydrotartratis in tabulettas numero 6\nNitroglycerini 0,03 numero 10\nAmpycillini in ampullis numero 50\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Фенобарбитала 0,25 числом 50\nСтрофантина в ампулах числом 7\nМетиландростендола 0,025 числом 6\nВыдать. Обозначить:",
+        "answer": "Recipe: Phenobarbitali 0,25 numero 50\nStrophanthini in ampullis numero 7\nMethylandrostendioli 0,025 numero 6\nDentur. Signetur:"
+      },
+      {
+        "question": "Возьми: Гидрохлорида морфина\nДигидрохлорида апоморфина по 0,05\nСтрептоцида\nНорсульфазола по 1,5\nСмешай, пусть получится порошок.\nВыдай. Обозначь:",
+        "answer": "Recipe: Morphini hydrochloridi\nApomorphini hydrochloridi ana 0,05\nStreptocidi\nNorsulfazoli ana 1,5\nMisce, fiat pulvis.\nDa. Signa:"
+      },
+      {
+        "question": "Возьми: Таблетки метилэстрадиола числом 7\nВыдать. Обозначить:",
+        "answer": "Recipe: Tabulettas Methyl-Oestradioli numero 25\nDentur. Signetur:"
+      },
+      {
+        "question": "Возьми: Фенилсалицилата 2,5\nМасла аниса\nМятного масла по 1 мл\nЭтилового спирта 95% 5 мл\nСмешать. Выдать. Обозначить:",
+        "answer": "Recipe: Phenylii salicylatis 2,5\nOlei Ricini\nOlei Menthae ana 1 ml\nSpiritus Aethylicus 95% 5 ml\nMisce. Detur. Signetur:"
+      },
+      {
+        "question": "Возьми: Спиртового раствора новокаина 1% 10 мл\nВыдай. Обозначь:",
+        "answer": "Recipe: Solutions Novocaini spirituosae 1% 10 ml\nDa. Signa:"
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "title": "Фармацевтическая терминология.\nПереведите на русский язык",
+    "items": [
+      {
+        "question": "acidum arsenicosum",
+        "answer": "Мышьяковистая кислота"
+      },
+      {
+        "question": "ad usum externum",
+        "answer": "Для наружного применения"
+      },
+      {
+        "question": "Aether pro narcosi",
+        "answer": "Эфир для наркоза"
+      },
+      {
+        "question": "Contra tussim",
+        "answer": "От кашля"
+      },
+      {
+        "question": "da tales doses",
+        "answer": "Выдай такие дозы"
+      },
+      {
+        "question": "Dibazolum in tabulettis",
+        "answer": "Дибазол в таблетках"
+      },
+      {
+        "question": "Emplastrum Plumbi compositum ad usum externum",
+        "answer": "Сложный свинцовый пластырь для наружного применения"
+      },
+      {
+        "question": "Emplastum Plumbi simplex",
+        "answer": "Пластырь свинца простой"
+      },
+      {
+        "question": "emulsum olei Rosae pro infantibus",
+        "answer": "Эмульсия масла Розы для детей"
+      },
+      {
+        "question": "Ferrum oxydulatum",
+        "answer": "Закись железа"
+      },
+      {
+        "question": "Fructus dulces",
+        "answer": "Сладкий плод"
+      },
+      {
+        "question": "Hydrargyri oxydum flavum in vitro nigro",
+        "answer": "Желый оксид ртути в темной склянке"
+      },
+      {
+        "question": "Infusa et decocta",
+        "answer": "Настои и отвары"
+      },
+      {
+        "question": "Infusum pro inhalatione",
+        "answer": "Настой для ингаляции"
+      },
+      {
+        "question": "Kanamycini monosulfas in tabulettis",
+        "answer": "Канамицин моносульфат в таблетках"
+      },
+      {
+        "question": "membranulae ophthalcae cum Pilocarpini hydrochlorido",
+        "answer": "Глазная пленка с гидрохлоридом пилокарпина"
+      },
+      {
+        "question": "Membranulae ophthalmicae cum Dicaino",
+        "answer": "Глазные пленки с Дикаином"
+      },
+      {
+        "question": "membranulae ophthalmicae cum Pilocarpini hydrochlorido",
+        "answer": "Глазные пленки с гидрохлоридом пилокарпина"
+      },
+      {
+        "question": "misce ut fiant massa pilularum",
+        "answer": "Смешай, пусть получиться пилюльная масса"
+      },
+      {
+        "question": "misce ut fiant species",
+        "answer": "Смешай, пусть получится смесь"
+      },
+      {
+        "question": "Misce ut fiat pulvis",
+        "answer": "Смешай, пусть получится порошок"
+      },
+      {
+        "question": "Neomycini sulfas ad usum internum",
+        "answer": "Сульфат неомицина через внутреннее применение"
+      },
+      {
+        "question": "Neomycini sulfas in tabulettis",
+        "answer": "Сульфат Неомицина в таблетках"
+      },
+      {
+        "question": "Per os",
+        "answer": "Через рот"
+      },
+      {
+        "question": "post mortem",
+        "answer": "После смерти"
+      },
+      {
+        "question": "Pro dosi",
+        "answer": "Разовая доза"
+      },
+      {
+        "question": "Pro infantibus",
+        "answer": "Для детей"
+      },
+      {
+        "question": "pulvis subtilissimus in",
+        "answer": "Порошок основного тилиссимута в капсулах capsulis"
+      },
+      {
+        "question": "Quantum satis",
+        "answer": "В достаточном количестве, вдоволь, сколько надо"
+      },
+      {
+        "question": "Remedia officinalia",
+        "answer": "Лекарственное средство"
+      },
+      {
+        "question": "Remedium stimulans cum Atropino",
+        "answer": "Средство стимулирующее с Атропином"
+      },
+      {
+        "question": "Sirupus Aloes cum Ferro",
+        "answer": "Сироп Алое с железом"
+      },
+      {
+        "question": "solutio Dibazoli pro infantibus",
+        "answer": "Раствор дибазола для детей"
+      },
+      {
+        "question": "species cholagogae",
+        "answer": "Желчегонный сбор"
+      },
+      {
+        "question": "Streptocidum solubile",
+        "answer": "Стрептоцид растворимый"
+      },
+      {
+        "question": "Suppositoria cum extracto Aloes",
+        "answer": "Свечи с экстрактом Алоэ"
+      },
+      {
+        "question": "suppositoria cum extracto Calendulae",
+        "answer": "Свечи с экстрактом Календулы"
+      },
+      {
+        "question": "suppositoria vaginalia cum Synthomycino",
+        "answer": "Влагалищные свечи с синтомицином"
+      },
+      {
+        "question": "suppusitoria cum Belladonnae",
+        "answer": "Свечи с Красавкой"
+      },
+      {
+        "question": "suppusitoria cum Phenacetino",
+        "answer": "Свечи с Фенацетином"
+      },
+      {
+        "question": "Suppusitorium cum extracto Belladonnae",
+        "answer": "Свечи с экстрактом Красавки"
+      },
+      {
+        "question": "Suspensio Salazopyridazini per rectum",
+        "answer": "Суспензия салазопиридазина через прямую кишку"
+      },
+      {
+        "question": "tabulettae contra tussim",
+        "answer": "Таблетки против кашля"
+      },
+      {
+        "question": "tabulettae Streptocidi pro dosi",
+        "answer": "Таблетки стрептоцида на один раз"
+      },
+      {
+        "question": "Tabulettae Sulfamonomethoxini pro die",
+        "answer": "Таблетки сульфомонометоксина на день"
+      },
+      {
+        "question": "Tinctura omara",
+        "answer": "Горькая настойка"
+      },
+      {
+        "question": "Tinctura rhizomatum cum radicibus Valerianae per se",
+        "answer": "Настойка корневищ с корнями Валерианы в чистом виде"
+      },
+      {
+        "question": "Vaccinum amtirabicum in ampullis",
+        "answer": "Вакцина против бешенства в ампулах"
+      }
+    ]
+  }
+]
