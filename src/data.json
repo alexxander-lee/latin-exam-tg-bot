@@ -1169,7 +1169,7 @@
       },
       {
         "question": "incisura cardiaca pulmonis sinistri",
-        "answer": "сердечная вырезка левого легкого"
+        "answer": ["сердечная вырезка левого легкого", "вырезка сердца левого легкого"]
       },
       {
         "question": "indicatio vitalis",
@@ -1373,7 +1373,7 @@
       },
       {
         "question": "Resectio gastris",
-        "answer": "Иссечение/Удаление части желудка"
+        "answer": ["Иссечение части желудка", "Удаление части желудка"]
       },
       {
         "question": "Respiratio spostica",
@@ -2069,7 +2069,7 @@
       },
       {
         "question": "Haemopoesis",
-        "answer": "Выработка крови / кроветворение"
+        "answer": ["Выработка крови", "кроветворение"]
       },
       {
         "question": "Haemostasis",
@@ -2257,7 +2257,7 @@
       },
       {
         "question": "sialorrhoea",
-        "answer": "Слюнотечение/истечение слюны"
+        "answer": ["Слюнотечение", "истечение слюны"]
       },
       {
         "question": "Sialostatis",
@@ -3039,7 +3039,7 @@
       },
       {
         "question": "Возьми: Таблетки метилэстрадиола числом 7\nВыдать. Обозначить:",
-        "answer": "Recipe: Tabulettas Methyl-Oestradioli numero 25\nDentur. Signetur:"
+        "answer": "Recipe: Tabulettas Methyl-Oestradioli numero 7\nDentur. Signetur:"
       },
       {
         "question": "Возьми: Фенилсалицилата 2,5\nМасла аниса\nМятного масла по 1 мл\nЭтилового спирта 95% 5 мл\nСмешать. Выдать. Обозначить:",
